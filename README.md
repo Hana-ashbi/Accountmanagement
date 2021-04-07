@@ -21,5 +21,4 @@ The swagger was added to provide a UI to test all the api calls.
 Incase swagger isn't working, adding it to WebAPI Project properties under build/output/xml document file add: 'AccountManager.xml'
 
 
-
-
+...The whole project was pushed for simplicity so that no pre-installations would be required...
