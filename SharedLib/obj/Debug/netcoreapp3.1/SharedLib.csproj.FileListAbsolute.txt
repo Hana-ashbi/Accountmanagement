@@ -1,0 +1,8 @@
+C:\Users\HANA\source\repos\AccountManager\SharedLib\bin\Debug\netcoreapp3.1\SharedLib.deps.json
+C:\Users\HANA\source\repos\AccountManager\SharedLib\bin\Debug\netcoreapp3.1\SharedLib.dll
+C:\Users\HANA\source\repos\AccountManager\SharedLib\bin\Debug\netcoreapp3.1\SharedLib.pdb
+C:\Users\HANA\source\repos\AccountManager\SharedLib\obj\Debug\netcoreapp3.1\SharedLib.AssemblyInfoInputs.cache
+C:\Users\HANA\source\repos\AccountManager\SharedLib\obj\Debug\netcoreapp3.1\SharedLib.AssemblyInfo.cs
+C:\Users\HANA\source\repos\AccountManager\SharedLib\obj\Debug\netcoreapp3.1\SharedLib.csproj.CoreCompileInputs.cache
+C:\Users\HANA\source\repos\AccountManager\SharedLib\obj\Debug\netcoreapp3.1\SharedLib.dll
+C:\Users\HANA\source\repos\AccountManager\SharedLib\obj\Debug\netcoreapp3.1\SharedLib.pdb

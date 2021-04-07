@@ -1,0 +1,16 @@
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\obj\Debug\netcoreapp3.1\Account.Persistence.csprojAssemblyReference.cache
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\obj\Debug\netcoreapp3.1\Account.Persistence.AssemblyInfoInputs.cache
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\obj\Debug\netcoreapp3.1\Account.Persistence.AssemblyInfo.cs
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\obj\Debug\netcoreapp3.1\Account.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\bin\Debug\netcoreapp3.1\Account.Persistence.deps.json
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\bin\Debug\netcoreapp3.1\Account.Persistence.dll
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\bin\Debug\netcoreapp3.1\Account.Persistence.pdb
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\bin\Debug\netcoreapp3.1\Account.Application.dll
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\bin\Debug\netcoreapp3.1\Account.Domain.dll
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\bin\Debug\netcoreapp3.1\SharedLib.dll
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\bin\Debug\netcoreapp3.1\Account.Application.pdb
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\bin\Debug\netcoreapp3.1\Account.Domain.pdb
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\bin\Debug\netcoreapp3.1\SharedLib.pdb
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\obj\Debug\netcoreapp3.1\Account.Persistence.csproj.CopyComplete
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\obj\Debug\netcoreapp3.1\Account.Persistence.dll
+C:\Users\HANA\source\repos\AccountManager\Account.Persistence\obj\Debug\netcoreapp3.1\Account.Persistence.pdb

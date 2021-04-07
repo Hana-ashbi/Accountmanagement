@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FcKdGFiJNdq0QfqA60BRqkUOs6VB6sz4i3EypDF8yi71hibvHxllC1xw3riCat40PXL8a6+loq+Q5n9Ez8jUpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HANA\\source\\repos\\AccountManager\\SharedLib\\SharedLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HANA\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

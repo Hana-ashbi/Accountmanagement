@@ -1,0 +1,8 @@
+C:\Users\HANA\source\repos\AccountManager\Transaction.Domain\bin\Debug\netcoreapp3.1\Transaction.Domain.deps.json
+C:\Users\HANA\source\repos\AccountManager\Transaction.Domain\bin\Debug\netcoreapp3.1\Transaction.Domain.dll
+C:\Users\HANA\source\repos\AccountManager\Transaction.Domain\bin\Debug\netcoreapp3.1\Transaction.Domain.pdb
+C:\Users\HANA\source\repos\AccountManager\Transaction.Domain\obj\Debug\netcoreapp3.1\Transaction.Domain.AssemblyInfoInputs.cache
+C:\Users\HANA\source\repos\AccountManager\Transaction.Domain\obj\Debug\netcoreapp3.1\Transaction.Domain.AssemblyInfo.cs
+C:\Users\HANA\source\repos\AccountManager\Transaction.Domain\obj\Debug\netcoreapp3.1\Transaction.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HANA\source\repos\AccountManager\Transaction.Domain\obj\Debug\netcoreapp3.1\Transaction.Domain.dll
+C:\Users\HANA\source\repos\AccountManager\Transaction.Domain\obj\Debug\netcoreapp3.1\Transaction.Domain.pdb

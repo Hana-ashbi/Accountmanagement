@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI.Controllers.v1.AccountController.Create(Account.Application.Features.AccountFeatures.CreateAccountCommand)">
+            <summary>
+            Creates a New Account.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.v1.AccountController.GetById(System.String)">
+            <summary>
+            Gets Account Entity by CustomerId.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.v1.TransactionController.Create(Transaction.Application.Features.Commands.CreateAccountTransactionCommand)">
+            <summary>
+            Creates a New TransactionAccount.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.v1.TransactionController.ListAccountTransactions(Transaction.Application.Features.Queries.GetTransactionsByAccountsQuery)">
+            <summary>
+            Gets AccountTransaction Entity by userID, List of accounts.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
